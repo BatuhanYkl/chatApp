@@ -7,28 +7,28 @@
 
 # Ekran Görüntüleri
 #### Login Sayfası
-![](./chatApp_ss/login_screen.png)
+![](./chatAppSS/login_screen.png)
 ---
 #### Kayıt Sayfası
-![](./chatApp_ss/createAccount.png)
+![](./chatAppSS/createAccount.png)
 ---
 #### Chat Ekranı
-![](./chatApp_ss/chatscreen.png)
+![](./chatAppSS/chatscreen.png)
 ---
 #### Koyu Temalı Chat Ekranı
-![](./chatApp_ss/chatscreen_darkMode.png)
+![](./chatAppSS/chatscreen_darkMode.png)
 ---
 #### Firebase Üzerinde Mesajların Konumu
-![](./screenshots/kayitOlAlert.png)
+![](./chatAppSS/kayitOlAlert.png)
 ---
 #### Firebase Üzerinde Profil Fotoğraflarının Bulunduğu Konum
-![](./chatApp_ss/Firebase_profilePictures.png)
+![](./chatAppSS/Firebase_profilePictures.png)
 ---
 #### Firebase Üzerinde Kullanıcıların Saklandığı Konum
-![](./chatApp_ss/Firebase_users.png)
+![](./chatAppSS/Firebase_users.png)
 ---
 #### Uygulamaya Bildirim Gönderimi
-![](./chatApp_ss/notification.png)
+![](./chatAppSS/notification.png)
 ---
 
 # Takım Üyeleri
