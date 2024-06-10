@@ -13,13 +13,13 @@
 ![](./chatAppSS/createAccount.png)
 ---
 #### Chat Ekranı
-![](./chatAppSS/chatscreen.png)
+![](./chatAppSS/chatscreeen.png)
 ---
 #### Koyu Temalı Chat Ekranı
-![](./chatAppSS/chatscreen_darkMode.png)
+![](./chatAppSS/chatScreen_darkMode.png)
 ---
 #### Firebase Üzerinde Mesajların Konumu
-![](./chatAppSS/kayitOlAlert.png)
+![](./chatAppSS/Firebase_chat.png)
 ---
 #### Firebase Üzerinde Profil Fotoğraflarının Bulunduğu Konum
 ![](./chatAppSS/Firebase_profilePictures.png)
